@@ -74,7 +74,9 @@ for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker c
 ## Login int Nvidia Team with API Key
 
 Create an NGC account. Go to [NGC webstie](https://ngc.nvidia.com/).
+
 Generate the API key. Be careful dont use personal key.
+
 Log into nvcr.io on your system:
 
 ```
